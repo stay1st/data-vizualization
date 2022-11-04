@@ -9,5 +9,6 @@ DS_STORE
 .DS_STORE
 ./DS_STORE
 
-# Project not hosting
-script.js
+
+# Don't track component build
+./components
