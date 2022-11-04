@@ -11,4 +11,4 @@ DS_STORE
 
 
 # Don't track component build
-./components
+frontend
