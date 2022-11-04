@@ -9,6 +9,8 @@
         "company": "CEDWARD",
         "email": "dunlaphubbard@cedward.com",
         "phone": "+1 (890) 543-2508",
+        "purchases": [22.34, 5322, 454354, 64.2234],
+        "date": 306471205000,
         "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
       },
       {
@@ -20,6 +22,8 @@
         "company": "EMERGENT",
         "email": "kirstensellers@emergent.com",
         "phone": "+1 (831) 564-2190",
+        "purchases": [343.54, 50.34, 4.00, 33.67],
+        "date": 406771200000,
         "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
       },
       {
@@ -31,6 +35,8 @@
         "company": "ORGANICA",
         "email": "acostarobbins@organica.com",
         "phone": "+1 (882) 441-3367",
+        "purchases": [3.54, 520.34, 44.00, 333.67],
+        "date": 906771200000,
         "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
       }
     ]
