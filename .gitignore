@@ -1,0 +1,13 @@
+# dotenv files
+.env
+
+# node modules
+node_modules
+
+# Local MAC Directory routing
+DS_STORE
+.DS_STORE
+./DS_STORE
+
+# Project not hosting
+./script.js
